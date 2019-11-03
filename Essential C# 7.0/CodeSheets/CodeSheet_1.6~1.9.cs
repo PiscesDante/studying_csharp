@@ -19,7 +19,7 @@ System.Console.WriteLine(
  * 不缩进
 */
 
-class HelloWorld
+public class HelloWorld
 {
 public static void Main(string[] args)
 {
@@ -32,7 +32,7 @@ System.Console.WriteLine("Hello Inigo Montoya.");
  * 删除一切可以删除的空白
 */
 
-class HelloWorld{public static void Main(string[] args)
+public class HelloWorld{public static void Main(string[] args)
 {System.Console.WriteLine("Hello Inigo Montoya.");}}
 
 /**

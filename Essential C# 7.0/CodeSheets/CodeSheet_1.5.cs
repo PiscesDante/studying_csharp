@@ -3,7 +3,7 @@
  * 带有参数和返回类型的 Main 方法
 */
 
-class Program
+public class Program
 {
     public static int Main(string[] args)
     {

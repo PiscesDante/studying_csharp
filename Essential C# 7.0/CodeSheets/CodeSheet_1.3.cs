@@ -3,7 +3,7 @@
  * 基本的类声明
 */
 
-class HelloWorld // PascalCase
+public class HelloWorld // PascalCase
 {
     // ...
 }

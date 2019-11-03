@@ -3,7 +3,7 @@
  * 用 C# 编写的 HelloWorld
 */
 
-class HelloWorld
+public class HelloWorld
 {
     public static void Main(string[] args)
     {

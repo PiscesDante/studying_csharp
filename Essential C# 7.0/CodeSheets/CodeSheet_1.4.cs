@@ -3,7 +3,7 @@
  * HelloWorld 的分解示意图
 */
 
-class HelloWorld
+public class HelloWorld
 {
     public static void Main(string[] args)
     {
